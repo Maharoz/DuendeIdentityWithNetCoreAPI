@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\duende-logo.svg",
+      "PackagePath": "staticwebassets\\duende-logo.svg"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\js\\signin-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signin-redirect.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\js\\signout-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signout-redirect.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "H:\\Duende\\IdentityDuende\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdentityDuende.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IdentityDuende.props",
+      "PackagePath": "build\\IdentityDuende.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IdentityDuende.props",
+      "PackagePath": "buildMultiTargeting\\IdentityDuende.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IdentityDuende.props",
+      "PackagePath": "buildTransitive\\IdentityDuende.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

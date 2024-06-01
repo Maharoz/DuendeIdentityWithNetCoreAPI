@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer.csproj", "{089EDFAF-B893-4984-8BEE-983E8D8B2024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDuende", "..\IdentityDuende\IdentityDuende.csproj", "{A628EDE0-F1CD-4DEF-8958-51DF480620AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089EDFAF-B893-4984-8BEE-983E8D8B2024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089EDFAF-B893-4984-8BEE-983E8D8B2024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089EDFAF-B893-4984-8BEE-983E8D8B2024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089EDFAF-B893-4984-8BEE-983E8D8B2024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A628EDE0-F1CD-4DEF-8958-51DF480620AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A628EDE0-F1CD-4DEF-8958-51DF480620AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A628EDE0-F1CD-4DEF-8958-51DF480620AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A628EDE0-F1CD-4DEF-8958-51DF480620AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1A7CE3-4DEA-4894-ADCD-CE06826E6202}
+	EndGlobalSection
+EndGlobal

@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/API/API/bin/Debug/net6.0
+/Duende/IdentityServer/bin/Debug
+/Duende/IdentityServer/.vs
+/Duende/IdentityDuende/bin/Debug

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "IdentityServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\IdentityDuende\\IdentityDuende.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
